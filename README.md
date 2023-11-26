@@ -1,4 +1,4 @@
-# Moja strona
+# *Moja strona*
 
 ## *Czy warto podróżować?*
 Wiele lat temu jeden z najważniejszych polskich reporterów Ryszard Kapuściński zanotował, że „istnieje coś takiego jak zarażenie podróżą i jest to rodzaj choroby w gruncie rzeczy nieuleczalnej.” Wiele z nas doświadcza tego uzależnienia, wystarczy tylko jedna podróż, aby zmienić swoje dotychczasowe postrzeganie świata i otworzyć się na nieznane.
